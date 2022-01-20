@@ -74,6 +74,16 @@
   <img src="img/w6_03.JPG" width="400" title="output3">
 </p>
 
+<h1><b>Week 7</b></h1>
+<p>1. RGB</p>
+<p align="left">
+  <img src="img/w7_01.JPG" width="400" title="output1">
+</p>
+<p>2. HSI</p>
+<p align="left">
+  <img src="img/w7_02.JPG" width="400" title="output2">
+</p>
+
 
 
 
