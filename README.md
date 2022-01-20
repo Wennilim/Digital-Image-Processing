@@ -5,7 +5,7 @@
 </p>
 <p>2. Gamma Transformation</p>
 <p align="left">
-  <img src="w2_02.JPG" width="800" title="gamma">
+  <img src="img/w2_02.JPG" width="800" title="gamma">
 </p>
 <p>3. Log Transformation 1</p>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 <p>4. Log Transformation 2</p>
 <p align="left">
-  <img src="w2_04.JPG" width="800" title="log2">
+  <img src="img/w2_04.JPG" width="800" title="log2">
 </p>
 <p>5. Contrast Stretching Transformation</p>
 <p align="left">
