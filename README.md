@@ -19,3 +19,13 @@
 <p align="left">
   <img src="img/w2_05.JPG" width="400" title="contrast stretching">
 </p>
+
+<h1><b>Week 3</b></h1>
+<p>1. Predefined Filter</p>
+<p align="left">
+  <img src="img/w3_01.JPG" width="400" title="predefined">
+</p>
+<p>2. Filter 1</p>
+<p align="left">
+  <img src="img/w3_02.JPG" width="400" title="filter1">
+</p>
