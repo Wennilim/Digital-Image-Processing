@@ -29,3 +29,24 @@
 <p align="left">
   <img src="img/w3_02.JPG" width="400" title="filter1">
 </p>
+
+<h1><b>Week 4</b></h1>
+<p>1. Medium filtering VS Average filtering</p>
+<p align="left">
+  <img src="img/w4_01.JPG" width="400" title="output1">
+</p>
+<p>2. Noise Density VS Filter Size</p>
+<p align="left">
+  <img src="img/w4_02.JPG" width="400" title="output2">
+</p>
+<p align="left">
+  <img src="img/w4_03.JPG" width="400" title="output3">
+</p>
+<p>3. Graph of Noise Density VS Filter Size</p>
+<p align="left">
+  <img src="img/w4_04.JPG" width="400" title="Graph">
+</p>
+
+
+
+
