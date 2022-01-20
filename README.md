@@ -60,6 +60,20 @@
   <img src="img/w5_03.JPG" width="400" title="output3">
 </p>
 
+<h1><b>Week 6</b></h1>
+<p>1. Fundamental Morphological Operations</p>
+<p align="left">
+  <img src="img/w6_01.JPG" width="400" title="output1">
+</p>
+<p>2. Compound Morphological Operations: Opening</p>
+<p align="left">
+  <img src="img/w6_02.JPG" width="400" title="output2">
+</p>
+<p>3.	Compound Morphological Operations: Closing</p>
+<p align="left">
+  <img src="img/w6_03.JPG" width="400" title="output3">
+</p>
+
 
 
 
