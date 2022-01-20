@@ -47,6 +47,22 @@
   <img src="img/w4_04.JPG" width="400" title="Graph">
 </p>
 
+<h1><b>Week 5</b></h1>
+<p>1. Different kinds of edges detector</p>
+<p align="left">
+  <img src="img/w5_01.JPG" width="400" title="output1">
+</p>
+<p align="left">
+  <img src="img/w5_02.JPG" width="400" title="output2">
+</p>
+<p>2. Segmentation of Object and Background</p>
+<p align="left">
+  <img src="img/w5_03.JPG" width="400" title="output3">
+</p>
+
+
+
+
 
 
 
