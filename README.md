@@ -84,9 +84,10 @@
   <img src="img/w7_02.JPG" width="400" title="output2">
 </p>
 
-
-
-
+<h1><b>Week 8</b></h1>
+<p align="left">
+  <img src="img/w8_01.JPG" width="400" title="output1">
+</p>
 
 
 
