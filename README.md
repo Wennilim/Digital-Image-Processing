@@ -89,5 +89,40 @@
   <img src="img/w8_01.JPG" width="400" title="output1">
 </p>
 
+<h1><b>Week 9</b></h1>
+<p>1. Coin counting</p>
+<p align="left">
+  <img src="img/w9_01.JPG" width="400" title="output1">
+</p>
 
+<h1><b>Week 11</b></h1>
+<p>1. Object Detection</p>
+<p align="left">
+  <img src="img/w11_01.JPG" width="400" title="output1">
+</p>
 
+<h1><b>Week 12</b></h1>
+<p>1. Motion detection</p>
+<p align="left">
+  <img src="img/w12_01.JPG" width="400" title="output1">
+</p>
+
+<h1><b>Week 13</b></h1>
+<p>1. RGB 432</p>
+<p align="left">
+  <img src="img/w13_01.JPG" width="400" title="output1">
+</p>
+<p>2. RGB 754</p>
+<p align="left">
+  <img src="img/w13_02.JPG" width="400" title="output2">
+</p>
+
+<h1><b>Week 14</b></h1>
+<p>1. Unsupervised learning</p>
+<p align="left">
+  <img src="img/w14_01.JPG" width="400" title="output1">
+</p>
+<p>2. Supervised learning</p>
+<p align="left">
+  <img src="img/w14_02.JPG" width="400" title="output2">
+</p>
